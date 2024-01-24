@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "431446927456",
+    "project_id": "playviet-spot-the-number1to100",
+    "storage_bucket": "playviet-spot-the-number1to100.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431446927456:android:fa5d995e8648c9397abb05",
+        "android_client_info": {
+          "package_name": "spot.onetohundred.numbers"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlY0nxzrt-pcB6HEO0TrqPje1X3cRFIVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
